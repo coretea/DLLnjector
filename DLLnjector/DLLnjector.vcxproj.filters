@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\DLL\usemydll\DLLInjector.cpp">
+    <ClCompile Include="DLLInjector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
